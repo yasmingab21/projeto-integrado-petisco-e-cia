@@ -3,7 +3,7 @@ Projeto Integrado, desenvolvido para solucionar uma situação-problema real por
 
 Integrantes:
 Yamin Gabriela Buzato / RA: 26001000
-Yara Venancio Leforte / RA: 
+Yara Venancio Leforte / RA: 26000404
 
 # Petiscos & Cia
 
